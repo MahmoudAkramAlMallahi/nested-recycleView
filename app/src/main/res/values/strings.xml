@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">new Two</string>
+    <string name="main_hint_et">Update your status</string>
+    <string name="itemPost_iv_contentDescription">image Person</string>
+    <string name="itemPost_tv_date">5/6/2022</string>
+    <string name="ItemPost_iv_contentDesc">post Image</string>
+    <string name="itemStorie_iv_contentDesc">image storie</string>
+</resources>

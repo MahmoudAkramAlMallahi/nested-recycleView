@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <EditText
+        android:id="@+id/item_text_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/main_hint_et"
+        android:inputType="text"
+        android:autofillHints="name"
+        android:background="@drawable/shape_et"
+        android:padding="12dp"
+        android:layout_weight="5"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="5dp"/>
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_sarch"/>
+</LinearLayout>
